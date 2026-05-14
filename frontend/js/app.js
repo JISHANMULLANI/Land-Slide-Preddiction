@@ -1,0 +1,1 @@
+console.log("Landslide Prediction System Loaded");
